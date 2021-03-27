@@ -1,4 +1,4 @@
 # cpu_powerup
-因为eos的新资源模型powerup 的cpu只能租24h
-为此搞了个自动续租的小脚本。当cpu低于某个值时，脚本自动帮你续租一份24h的cpu
+因为eos的新资源模型powerup 的cpu只能租24h.
+为此基于eosjs搞了个自动续租的小脚本。当cpu低于某个值时，脚本自动帮你续租一份24h的cpu。
 这样可以提高cpu的利用率
