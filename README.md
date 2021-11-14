@@ -3,4 +3,4 @@ PowerUP-Cpu,Net资源自动租赁脚本。无须额外手续费。因为EOSIO的
 Powerup-- CPU, Net resource auto lease script. No additional handling charge. The CPU and Net can only be rented for 24h in the new resource model powerup. In order to realize the high-frequency quantitative arbitrage account has resources to trade all the time, a script for automatically renewing resources is implemented based on eosjs. When the CPU or net is lower than a certain value, the script can automatically help you renew some 24-hour CPU or Net. This can improve the utilization of CPU and net of the arbitrage account, and avoid frequent resource leasing operations and a large number of idle resources.
 
 -----------------------------------------------------------------------
-node cpu.js
+node autocpu.js
